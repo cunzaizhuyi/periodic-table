@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "app/immutable/start-01caf682.js",
+    "file": "app/immutable/start-1ea0c0a2.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -197,40 +197,40 @@
       "_BohrAtom-2a818771.js"
     ]
   },
-  "src/routes/+layout.css": {
-    "file": "app/immutable/assets/+layout-6166e364.css",
-    "src": "src/routes/+layout.css"
+  "src/routes/+error.css": {
+    "file": "app/immutable/assets/+error-fe1f4243.css",
+    "src": "src/routes/+error.css"
   },
   "app.css": {
     "file": "app/immutable/assets/app-c465f6d6.css",
     "src": "app.css"
   },
-  "src/routes/+error.css": {
-    "file": "app/immutable/assets/+error-fe1f4243.css",
-    "src": "src/routes/+error.css"
+  "BohrAtom.css": {
+    "file": "app/immutable/assets/BohrAtom-ba5dd8cd.css",
+    "src": "BohrAtom.css"
   },
-  "src/routes/+page.css": {
-    "file": "app/immutable/assets/+page-2f0e7483.css",
-    "src": "src/routes/+page.css"
-  },
-  "src/routes/bohr-atoms/+page.css": {
-    "file": "app/immutable/assets/+page-ce1bdcd8.css",
-    "src": "src/routes/bohr-atoms/+page.css"
-  },
-  "PropertySelect.css": {
-    "file": "app/immutable/assets/PropertySelect-7072618f.css",
-    "src": "PropertySelect.css"
+  "src/routes/+layout.css": {
+    "file": "app/immutable/assets/+layout-6166e364.css",
+    "src": "src/routes/+layout.css"
   },
   "src/routes/acknowledgements/+page.css": {
     "file": "app/immutable/assets/+page-bc5dc60f.css",
     "src": "src/routes/acknowledgements/+page.css"
   },
-  "BohrAtom.css": {
-    "file": "app/immutable/assets/BohrAtom-ba5dd8cd.css",
-    "src": "BohrAtom.css"
+  "src/routes/+page.css": {
+    "file": "app/immutable/assets/+page-2f0e7483.css",
+    "src": "src/routes/+page.css"
+  },
+  "PropertySelect.css": {
+    "file": "app/immutable/assets/PropertySelect-7072618f.css",
+    "src": "PropertySelect.css"
   },
   "src/routes/[slug]/+page.css": {
     "file": "app/immutable/assets/+page-fa9db392.css",
     "src": "src/routes/[slug]/+page.css"
+  },
+  "src/routes/bohr-atoms/+page.css": {
+    "file": "app/immutable/assets/+page-ce1bdcd8.css",
+    "src": "src/routes/bohr-atoms/+page.css"
   }
 }

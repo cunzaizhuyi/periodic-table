@@ -12,11 +12,13 @@ export default {
 
     adapter: adapter(),
 
-    prerender: { default: true },
+    prerender: {
+      default: true,
+    },
 
     paths: {
-      assets: `https://cunzaizhuyi.github.io/periodic-table/build`
-      // base: `/build`
+      assets: `https://cunzaizhuyi.github.io/periodic-table/build`,
+      base: ``
     }
   },
 }
