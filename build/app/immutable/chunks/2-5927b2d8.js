@@ -1,0 +1,1 @@
+import{default as a}from"../components/pages/_page.svelte-aa874e37.js";import"./index-7ddcf04f.js";import"./PropertySelect-ec93f26c.js";import"./BohrAtom-2a818771.js";import"./index-04b110e3.js";/* empty css            */export{a as component};

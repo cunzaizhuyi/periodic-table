@@ -1,11 +1,11 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-1cc1d2a3.js",
+    "file": "app/immutable/start-01caf682.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-9c8b8991.js",
-      "_index-32e55b05.js"
+      "_index-7ddcf04f.js",
+      "_index-04b110e3.js"
     ],
     "dynamicImports": [
       ".svelte-kit/generated/nodes/0.js",
@@ -17,220 +17,220 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "_app/immutable/components/pages/_layout.svelte-4e280d4e.js",
+    "file": "app/immutable/components/pages/_layout.svelte-3026766d.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9c8b8991.js",
-      "_stores-bde0da53.js"
+      "_index-7ddcf04f.js",
+      "_stores-179f099f.js"
     ],
     "css": [
-      "_app/immutable/assets/+layout-6166e364.css",
-      "_app/immutable/assets/app-c465f6d6.css"
+      "app/immutable/assets/+layout-6166e364.css",
+      "app/immutable/assets/app-c465f6d6.css"
     ]
   },
   "src/routes/+error.svelte": {
-    "file": "_app/immutable/components/pages/_error.svelte-c111cff8.js",
+    "file": "app/immutable/components/pages/_error.svelte-90e1c57a.js",
     "src": "src/routes/+error.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9c8b8991.js",
-      "_stores-bde0da53.js"
+      "_index-7ddcf04f.js",
+      "_stores-179f099f.js"
     ],
     "css": [
-      "_app/immutable/assets/+error-fe1f4243.css"
+      "app/immutable/assets/+error-fe1f4243.css"
     ]
   },
   "src/routes/+page.svelte": {
-    "file": "_app/immutable/components/pages/_page.svelte-72a64f4c.js",
+    "file": "app/immutable/components/pages/_page.svelte-aa874e37.js",
     "src": "src/routes/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9c8b8991.js",
-      "_PropertySelect-10713e44.js",
-      "_BohrAtom-7a057de5.js",
-      "_index-32e55b05.js"
+      "_index-7ddcf04f.js",
+      "_PropertySelect-ec93f26c.js",
+      "_BohrAtom-2a818771.js",
+      "_index-04b110e3.js"
     ],
     "css": [
-      "_app/immutable/assets/+page-2f0e7483.css",
-      "_app/immutable/assets/app-c465f6d6.css"
+      "app/immutable/assets/+page-2f0e7483.css",
+      "app/immutable/assets/app-c465f6d6.css"
     ]
   },
   "src/routes/[slug]/+page.svelte": {
-    "file": "_app/immutable/components/pages/_slug_/_page.svelte-8c2cb8f3.js",
+    "file": "app/immutable/components/pages/_slug_/_page.svelte-f5a653cd.js",
     "src": "src/routes/[slug]/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9c8b8991.js",
-      "_BohrAtom-7a057de5.js",
-      "_PropertySelect-10713e44.js",
-      "_index-32e55b05.js"
+      "_index-7ddcf04f.js",
+      "_BohrAtom-2a818771.js",
+      "_PropertySelect-ec93f26c.js",
+      "_index-04b110e3.js"
     ],
     "css": [
-      "_app/immutable/assets/+page-fa9db392.css"
+      "app/immutable/assets/+page-fa9db392.css"
     ]
   },
   "src/routes/acknowledgements/+page.svx": {
-    "file": "_app/immutable/components/pages/acknowledgements/_page.svx-9ef26e08.js",
+    "file": "app/immutable/components/pages/acknowledgements/_page.svx-d6868a4c.js",
     "src": "src/routes/acknowledgements/+page.svx",
     "isEntry": true,
     "imports": [
-      "_index-9c8b8991.js"
+      "_index-7ddcf04f.js"
     ],
     "css": [
-      "_app/immutable/assets/+page-bc5dc60f.css"
+      "app/immutable/assets/+page-bc5dc60f.css"
     ]
   },
   "src/routes/bohr-atoms/+page.svelte": {
-    "file": "_app/immutable/components/pages/bohr-atoms/_page.svelte-4736ee25.js",
+    "file": "app/immutable/components/pages/bohr-atoms/_page.svelte-c40847b9.js",
     "src": "src/routes/bohr-atoms/+page.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9c8b8991.js",
-      "_BohrAtom-7a057de5.js"
+      "_index-7ddcf04f.js",
+      "_BohrAtom-2a818771.js"
     ],
     "css": [
-      "_app/immutable/assets/+page-ce1bdcd8.css"
+      "app/immutable/assets/+page-ce1bdcd8.css"
     ]
   },
-  "_index-9c8b8991.js": {
-    "file": "_app/immutable/chunks/index-9c8b8991.js"
+  "_index-7ddcf04f.js": {
+    "file": "app/immutable/chunks/index-7ddcf04f.js"
   },
-  "_index-32e55b05.js": {
-    "file": "_app/immutable/chunks/index-32e55b05.js",
+  "_index-04b110e3.js": {
+    "file": "app/immutable/chunks/index-04b110e3.js",
     "imports": [
-      "_index-9c8b8991.js"
+      "_index-7ddcf04f.js"
     ]
   },
-  "_stores-bde0da53.js": {
-    "file": "_app/immutable/chunks/stores-bde0da53.js",
+  "_stores-179f099f.js": {
+    "file": "app/immutable/chunks/stores-179f099f.js",
     "imports": [
-      "_index-9c8b8991.js"
+      "_index-7ddcf04f.js"
     ]
   },
-  "_PropertySelect-10713e44.js": {
-    "file": "_app/immutable/chunks/PropertySelect-10713e44.js",
+  "_PropertySelect-ec93f26c.js": {
+    "file": "app/immutable/chunks/PropertySelect-ec93f26c.js",
     "imports": [
-      "_index-9c8b8991.js",
-      "_BohrAtom-7a057de5.js",
-      "_index-32e55b05.js"
+      "_index-7ddcf04f.js",
+      "_BohrAtom-2a818771.js",
+      "_index-04b110e3.js"
     ],
     "css": [
-      "_app/immutable/assets/PropertySelect-7072618f.css"
+      "app/immutable/assets/PropertySelect-7072618f.css"
     ]
   },
-  "_BohrAtom-7a057de5.js": {
-    "file": "_app/immutable/chunks/BohrAtom-7a057de5.js",
+  "_BohrAtom-2a818771.js": {
+    "file": "app/immutable/chunks/BohrAtom-2a818771.js",
     "imports": [
-      "_index-9c8b8991.js"
+      "_index-7ddcf04f.js"
     ],
     "css": [
-      "_app/immutable/assets/BohrAtom-ba5dd8cd.css"
+      "app/immutable/assets/BohrAtom-ba5dd8cd.css"
     ]
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-71c79c09.js",
+    "file": "app/immutable/chunks/0-8956befb.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
       "src/routes/+layout.svelte",
-      "_index-9c8b8991.js",
-      "_stores-bde0da53.js"
+      "_index-7ddcf04f.js",
+      "_stores-179f099f.js"
     ],
     "css": [
-      "_app/immutable/assets/app-c465f6d6.css"
+      "app/immutable/assets/app-c465f6d6.css"
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-9102cf7d.js",
+    "file": "app/immutable/chunks/1-f3ad7854.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
       "src/routes/+error.svelte",
-      "_index-9c8b8991.js",
-      "_stores-bde0da53.js"
+      "_index-7ddcf04f.js",
+      "_stores-179f099f.js"
     ]
   },
   ".svelte-kit/generated/nodes/2.js": {
-    "file": "_app/immutable/chunks/2-f363f0a8.js",
+    "file": "app/immutable/chunks/2-5927b2d8.js",
     "src": ".svelte-kit/generated/nodes/2.js",
     "isDynamicEntry": true,
     "imports": [
       "src/routes/+page.svelte",
-      "_index-9c8b8991.js",
-      "_PropertySelect-10713e44.js",
-      "_BohrAtom-7a057de5.js",
-      "_index-32e55b05.js"
+      "_index-7ddcf04f.js",
+      "_PropertySelect-ec93f26c.js",
+      "_BohrAtom-2a818771.js",
+      "_index-04b110e3.js"
     ],
     "css": [
-      "_app/immutable/assets/app-c465f6d6.css"
+      "app/immutable/assets/app-c465f6d6.css"
     ]
   },
   ".svelte-kit/generated/nodes/3.js": {
-    "file": "_app/immutable/chunks/3-7c468032.js",
+    "file": "app/immutable/chunks/3-c1e8173c.js",
     "src": ".svelte-kit/generated/nodes/3.js",
     "isDynamicEntry": true,
     "imports": [
       "src/routes/[slug]/+page.svelte",
-      "_index-9c8b8991.js",
-      "_BohrAtom-7a057de5.js",
-      "_PropertySelect-10713e44.js",
-      "_index-32e55b05.js"
+      "_index-7ddcf04f.js",
+      "_BohrAtom-2a818771.js",
+      "_PropertySelect-ec93f26c.js",
+      "_index-04b110e3.js"
     ]
   },
   ".svelte-kit/generated/nodes/4.js": {
-    "file": "_app/immutable/chunks/4-ca043125.js",
+    "file": "app/immutable/chunks/4-89dcb888.js",
     "src": ".svelte-kit/generated/nodes/4.js",
     "isDynamicEntry": true,
     "imports": [
       "src/routes/acknowledgements/+page.svx",
-      "_index-9c8b8991.js"
+      "_index-7ddcf04f.js"
     ]
   },
   ".svelte-kit/generated/nodes/5.js": {
-    "file": "_app/immutable/chunks/5-91c97e53.js",
+    "file": "app/immutable/chunks/5-a8b0ba55.js",
     "src": ".svelte-kit/generated/nodes/5.js",
     "isDynamicEntry": true,
     "imports": [
       "src/routes/bohr-atoms/+page.svelte",
-      "_index-9c8b8991.js",
-      "_BohrAtom-7a057de5.js"
+      "_index-7ddcf04f.js",
+      "_BohrAtom-2a818771.js"
     ]
   },
-  "src/routes/+error.css": {
-    "file": "_app/immutable/assets/+error-fe1f4243.css",
-    "src": "src/routes/+error.css"
-  },
   "src/routes/+layout.css": {
-    "file": "_app/immutable/assets/+layout-6166e364.css",
+    "file": "app/immutable/assets/+layout-6166e364.css",
     "src": "src/routes/+layout.css"
   },
-  "src/routes/[slug]/+page.css": {
-    "file": "_app/immutable/assets/+page-fa9db392.css",
-    "src": "src/routes/[slug]/+page.css"
-  },
-  "BohrAtom.css": {
-    "file": "_app/immutable/assets/BohrAtom-ba5dd8cd.css",
-    "src": "BohrAtom.css"
-  },
-  "src/routes/bohr-atoms/+page.css": {
-    "file": "_app/immutable/assets/+page-ce1bdcd8.css",
-    "src": "src/routes/bohr-atoms/+page.css"
-  },
   "app.css": {
-    "file": "_app/immutable/assets/app-c465f6d6.css",
+    "file": "app/immutable/assets/app-c465f6d6.css",
     "src": "app.css"
   },
+  "src/routes/+error.css": {
+    "file": "app/immutable/assets/+error-fe1f4243.css",
+    "src": "src/routes/+error.css"
+  },
   "src/routes/+page.css": {
-    "file": "_app/immutable/assets/+page-2f0e7483.css",
+    "file": "app/immutable/assets/+page-2f0e7483.css",
     "src": "src/routes/+page.css"
   },
+  "src/routes/bohr-atoms/+page.css": {
+    "file": "app/immutable/assets/+page-ce1bdcd8.css",
+    "src": "src/routes/bohr-atoms/+page.css"
+  },
   "PropertySelect.css": {
-    "file": "_app/immutable/assets/PropertySelect-7072618f.css",
+    "file": "app/immutable/assets/PropertySelect-7072618f.css",
     "src": "PropertySelect.css"
   },
   "src/routes/acknowledgements/+page.css": {
-    "file": "_app/immutable/assets/+page-bc5dc60f.css",
+    "file": "app/immutable/assets/+page-bc5dc60f.css",
     "src": "src/routes/acknowledgements/+page.css"
+  },
+  "BohrAtom.css": {
+    "file": "app/immutable/assets/BohrAtom-ba5dd8cd.css",
+    "src": "BohrAtom.css"
+  },
+  "src/routes/[slug]/+page.css": {
+    "file": "app/immutable/assets/+page-fa9db392.css",
+    "src": "src/routes/[slug]/+page.css"
   }
 }

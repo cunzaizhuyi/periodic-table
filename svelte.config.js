@@ -8,6 +8,8 @@ export default {
   preprocess: [preprocess(), mdsvex({ extensions: [`.svx`, `.md`] })],
 
   kit: {
+    appDir: `app`,
+
     adapter: adapter(),
 
     prerender: { default: true },
