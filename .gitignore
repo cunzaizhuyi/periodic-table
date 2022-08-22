@@ -3,7 +3,7 @@ node_modules
 
 # production build
 .svelte-kit
-build
+#build
 package
 
 # deploy config

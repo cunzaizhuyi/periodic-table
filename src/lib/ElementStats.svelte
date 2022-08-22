@@ -16,24 +16,24 @@
     </h2>
     <section>
       <p>
-        Atomic Mass
+        原子质量
         <abbr title="Dalton aka atomic mass unit">(u)</abbr>
       </p>
       <strong>{parseFloat(element.atomic_mass?.toFixed(precision))}</strong>
     </section>
     <section>
       <p>
-        Density
+        密度
         <abbr title="grams per cubic centimeter">({density_unit})</abbr>
       </p>
       <strong>{parseFloat(element.density?.toFixed(precision))}</strong>
     </section>
     <section>
-      <p>Phase</p>
+      <p>相(phase)</p>
       <strong>{element.phase}</strong>
     </section>
     <section>
-      <p>Year of Discovery</p>
+      <p>发现年份</p>
       <strong>
         {element.year}
       </strong>

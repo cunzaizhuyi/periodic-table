@@ -19,7 +19,7 @@
   style:cursor={collapsible ? `pointer` : `default`}
   transition:fade|local
 >
-  Customize Colors
+  自定义颜色
 </h2>
 <div class="grid" transition:fade|local>
   {#if open || !collapsible}

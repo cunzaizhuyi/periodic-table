@@ -13,13 +13,13 @@
 </script>
 
 <svelte:head>
-  <title>Periodic Table</title>
+  <title>元素周期表</title>
   <meta property="og:title" content="Periodic Table" />
 </svelte:head>
 
 <svelte:window bind:innerWidth={window_width} />
 
-<h1>Periodic Table of Elements</h1>
+<h1>元素周期表</h1>
 
 <PropertySelect />
 
