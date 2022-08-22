@@ -1,6 +1,6 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-3f14ddec.js",
+    "file": "_app/immutable/start-1cc1d2a3.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -197,40 +197,40 @@
       "_BohrAtom-7a057de5.js"
     ]
   },
-  "app.css": {
-    "file": "_app/immutable/assets/app-c465f6d6.css",
-    "src": "app.css"
+  "src/routes/+error.css": {
+    "file": "_app/immutable/assets/+error-fe1f4243.css",
+    "src": "src/routes/+error.css"
   },
   "src/routes/+layout.css": {
     "file": "_app/immutable/assets/+layout-6166e364.css",
     "src": "src/routes/+layout.css"
   },
-  "src/routes/acknowledgements/+page.css": {
-    "file": "_app/immutable/assets/+page-bc5dc60f.css",
-    "src": "src/routes/acknowledgements/+page.css"
+  "src/routes/[slug]/+page.css": {
+    "file": "_app/immutable/assets/+page-fa9db392.css",
+    "src": "src/routes/[slug]/+page.css"
   },
   "BohrAtom.css": {
     "file": "_app/immutable/assets/BohrAtom-ba5dd8cd.css",
     "src": "BohrAtom.css"
   },
-  "src/routes/[slug]/+page.css": {
-    "file": "_app/immutable/assets/+page-fa9db392.css",
-    "src": "src/routes/[slug]/+page.css"
+  "src/routes/bohr-atoms/+page.css": {
+    "file": "_app/immutable/assets/+page-ce1bdcd8.css",
+    "src": "src/routes/bohr-atoms/+page.css"
+  },
+  "app.css": {
+    "file": "_app/immutable/assets/app-c465f6d6.css",
+    "src": "app.css"
   },
   "src/routes/+page.css": {
     "file": "_app/immutable/assets/+page-2f0e7483.css",
     "src": "src/routes/+page.css"
   },
-  "src/routes/bohr-atoms/+page.css": {
-    "file": "_app/immutable/assets/+page-ce1bdcd8.css",
-    "src": "src/routes/bohr-atoms/+page.css"
-  },
-  "src/routes/+error.css": {
-    "file": "_app/immutable/assets/+error-fe1f4243.css",
-    "src": "src/routes/+error.css"
-  },
   "PropertySelect.css": {
     "file": "_app/immutable/assets/PropertySelect-7072618f.css",
     "src": "PropertySelect.css"
+  },
+  "src/routes/acknowledgements/+page.css": {
+    "file": "_app/immutable/assets/+page-bc5dc60f.css",
+    "src": "src/routes/acknowledgements/+page.css"
   }
 }

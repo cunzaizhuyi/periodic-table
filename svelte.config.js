@@ -13,7 +13,8 @@ export default {
     prerender: { default: true },
 
     paths: {
-      // base: `/periodic-table/build`
+      assets: `https://cunzaizhuyi.github.io/periodic-table/build`
+      // base: `/build`
     }
   },
 }
