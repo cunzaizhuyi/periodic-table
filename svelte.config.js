@@ -17,8 +17,8 @@ export default {
     },
 
     paths: {
-      assets: `https://cunzaizhuyi.github.io/periodic-table/build`,
-      base: ``
+      // assets: `https://cunzaizhuyi.github.io/periodic-table/build`,
+      // base: ``
     }
   },
 }
