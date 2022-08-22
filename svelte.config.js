@@ -11,5 +11,9 @@ export default {
     adapter: adapter(),
 
     prerender: { default: true },
+
+    paths: {
+      // base: `/periodic-table/build`
+    }
   },
 }
