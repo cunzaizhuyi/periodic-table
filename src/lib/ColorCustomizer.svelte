@@ -1,6 +1,6 @@
 <script lang="ts">
   import { fade } from 'svelte/transition'
-  import { category_colors, default_category_colors } from '../colors'
+  import { category_colors, default_category_colors, category_color_ch_map } from '../colors'
   import { active_category } from '../stores'
 
   export let open = false
@@ -37,7 +37,8 @@
           id="{category}-color"
           bind:value={category_colors[category]}
         />
-        {category.replaceAll(`-`, ` `)}
+        <!--{category.replaceAll(`-`, ` `)}-->
+        {category_color_ch_map[category]}
         {#if category_colors[category] !== default_category_colors[category]}
           <button
             on:click|preventDefault={() =>

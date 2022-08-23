@@ -40,7 +40,7 @@
     </section>
   </div>
 {:else}
-  <h3 style="text-align: center;">Try hovering an element!</h3>
+  <h3 style="text-align: center;">尝试鼠标移到元素!</h3>
 {/if}
 
 <style>

@@ -13,3 +13,16 @@ export const default_category_colors: Record<string, string> = {
 export const category_colors: Record<string, string> = {
   ...default_category_colors,
 }
+
+export const category_color_ch_map = {
+  'diatomic-nonmetal': `双原子非金属`, // darkorange
+  'noble-gas': `惰性气体`, // darkorchid
+  'alkali-metal': `碱金属`, // darkgreen
+  'alkaline-earth-metal': `碱土金属`, // darkslateblue
+  metalloid: `准金属`, // darkgoldenrod
+  'polyatomic-nonmetal': `多原子非金属`, // brown
+  'transition-metal': `过渡金属`, // teal
+  'post-transition-metal': `后过渡金属`,
+  lanthanide: `镧系元素`,
+  actinide: `锕系元素`, // cornflowerblue
+}
